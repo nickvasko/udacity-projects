@@ -7,6 +7,6 @@ This is a repository of projects completed through Udacity nanodegrees, includin
 
 **rnn_tv_script_generation -** Used Recurrent Neural Network model to generate new TV scripts based on transcripts from Simpsons episodes.
 
-**reinforcement_learning_quadcopter -** Trains quadcopter simulation to learn to fly
+**reinforcement_learning_quadcopter -** Trains quadcopter simulation to learn to fly using reinforcement learning.
 
 **simple_nn_nike_rental_prediction -** This project uses a simple Neural Network to predict hourly bike rental usage based on publicly available data.
