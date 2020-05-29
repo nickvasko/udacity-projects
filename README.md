@@ -3,7 +3,9 @@ This is a repository of projects completed through Udacity nanodegrees, includin
 
 **GANs_face_recognition -** Utilizes Deep Generative Adversial Network to generate synthetic images of hand-written digits and faces. Two publicly available datasets are used for training, MNIST (hand-written digits) and CelebA (human faces).
 
-**cnn_dog_identification -** Compares CNN models to develop an app to identify dog breeds in images.
+**cnn_dog_identification -** Compares Convultional Neural Network models to develop an app to identify dog breeds in images.
+
+**nlp_machine_translation -** Compares Recurrent Neural Network models for translating English to French.
 
 **nlp_part_of_speech_tagging -** Explores part of speech tagging of text data using Hidden Markov Model.
 
