@@ -5,6 +5,8 @@ This is a repository of projects completed through Udacity nanodegrees, includin
 
 **cnn_dog_identification -** Compares Convultional Neural Network models to develop an app to identify dog breeds in images.
 
+**nlp_dnn_speech_recognizer -** Compares Deep Neural Network models, including RNNs and CNNs, to build acoustic models for speech recognition.
+
 **nlp_machine_translation -** Compares Recurrent Neural Network models for translating English to French.
 
 **nlp_part_of_speech_tagging -** Explores part of speech tagging of text data using Hidden Markov Model.
